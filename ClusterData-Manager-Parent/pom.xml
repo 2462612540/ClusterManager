@@ -13,6 +13,10 @@
         <module>ClusterData-Manager-LogdataCollection</module>
         <module>ClusterData-Manager-PaddlePaddle</module>
         <module>ClusterData-Manager-WebApp</module>
+        <module>ClusterData-Manager-SRS</module>
+        <module>ClusterData-Manager-jenkins</module>
+        <module>ClusterData-Manager-Redis</module>
+        <module>ClusterData-Manager-Kafka</module>
     </modules>
 
 

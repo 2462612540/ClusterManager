@@ -25,10 +25,8 @@
 hs_err_pid*
 
 .idea/
-ClusterData-Manager.iml
-ClusterData-Manager-Parent/ClusterData-Manager-DataProcess/ClusterData-Manager-DataProcess.iml
-ClusterData-Manager-Parent/ClusterData-Manager-LogdataCollection/ClusterData-Manager-LogdataCollection.iml
-ClusterData-Manager-Parent/ClusterData-Manager-PaddlePaddle/ClusterData-Manager-PaddlePaddle.iml
-ClusterData-Manager-Parent/ClusterData-Manager-Parent.iml
-ClusterData-Manager-Parent/ClusterData-Manager-WebApp/ClusterData-Manager-WebApp.iml
 
+Cluster-Manager-Parent/Cluster-Manager-Parent.iml
+Cluster-Manager-Parent/Cluster-Manager-SRS/target/*
+Cluster-Manager-Parent/Cluster-Manager-SRS/target
+Cluster-Manager.iml
